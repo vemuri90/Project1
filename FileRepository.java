@@ -11,7 +11,6 @@ import java.io.InputStream;
 
 /**
  * Interface providing API's for File operations like read, write, delete.
- * Created by PKS on 4/8/17.
  */
 @Repository
 public interface FileRepository{
