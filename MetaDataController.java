@@ -19,7 +19,6 @@ import static org.springframework.web.bind.annotation.RequestMethod.*;
 
 /**
  * Controller provides GET POST PUT DELETE API's for metadata operations.
- * Created by PKS on 4/8/17.
  */
 @RestController
 @RequestMapping("/api/v1/meta")
