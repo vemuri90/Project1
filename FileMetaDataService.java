@@ -28,7 +28,6 @@ import java.util.Map;
 
 /**
  * Provies Service API's for both file and metadata
- * Created by PKS on 4/8/17.
  */
 @Service
 public class FileMetaDataService {
