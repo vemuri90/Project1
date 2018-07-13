@@ -1,7 +1,7 @@
-package com.pksprojects.minis3.controllers;
+package com.tprojects.project1.controllers;
 
-import com.pksprojects.minis3.models.view.user.UserRegistrationView;
-import com.pksprojects.minis3.services.UsersService;
+import com.tprojects.project1.models.view.user.UserRegistrationView;
+import com.tprojects.project1.services.UsersService;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,7 +15,6 @@ import static org.springframework.web.bind.annotation.RequestMethod.POST;
 
 /**
  * Controller provides API to register user and check username availability.
- * Created by PKS on 4/8/17.
  */
 @RestController
 @RequestMapping("api/v1/users")
