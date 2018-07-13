@@ -2,7 +2,6 @@ package com.pksprojects.minis3.models.view.user;
 
 /**
  * Registration view of user.
- * Created by PKS on 4/9/17.
  */
 public class UserRegistrationView {
 
