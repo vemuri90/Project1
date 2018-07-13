@@ -10,7 +10,6 @@ import org.springframework.stereotype.Service;
 
 /**
  * Simple Service providing basic API for sending emails.
- * Created by PKS on 4/10/17.
  */
 @Service
 public class EmailService {
