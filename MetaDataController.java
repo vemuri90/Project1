@@ -1,10 +1,10 @@
-package com.pksprojects.minis3.controllers;
+package com.tprojects.project1.controllers;
 
-import com.pksprojects.minis3.models.metadata.MetaData;
-import com.pksprojects.minis3.models.user.User;
-import com.pksprojects.minis3.models.view.metadata.MetaDataView;
-import com.pksprojects.minis3.services.FileMetaDataService;
-import com.pksprojects.minis3.services.UsersService;
+import com.tprojects.project1.models.metadata.MetaData;
+import com.tprojects.project1.models.user.User;
+import com.tprojects.project1.models.view.metadata.MetaDataView;
+import com.tprojects.project1.services.FileMetaDataService;
+import com.tprojects.project1.services.UsersService;
 import javassist.NotFoundException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
