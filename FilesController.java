@@ -24,8 +24,7 @@ import static org.springframework.web.bind.annotation.RequestMethod.GET;
 import static org.springframework.web.bind.annotation.RequestMethod.POST;
 
 /**
- * Controller provides GET and POST request to upload and download file.
- * Created by PKS on 4/8/17.
+ * Controller provides GET and POST request to upload and download file
  */
 @RestController
 @RequestMapping("/api/v1/files")
