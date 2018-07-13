@@ -1,4 +1,4 @@
-package com.pksprojects.minis3.models.view.user;
+package com.tprojects.project1.models.view.user;
 
 /**
  * Registration view of user.
