@@ -1,6 +1,6 @@
-package com.pksprojects.minis3.models.user;
+package com.tprojects.project1.models.user;
 
-import com.pksprojects.minis3.models.view.user.UserRegistrationView;
+import com.tprojects.project1.models.view.user.UserRegistrationView;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.Generated;
 import org.hibernate.annotations.GenerationTime;
@@ -12,8 +12,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-import static com.pksprojects.minis3.models.user.Role.ADMIN;
-import static com.pksprojects.minis3.models.user.Role.USER;
+import static com.tprojects.project1.models.user.Role.ADMIN;
+import static com.tprojects.project1.models.user.Role.USER;
 import static java.util.Arrays.asList;
 
 /**
