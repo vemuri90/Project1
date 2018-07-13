@@ -12,8 +12,7 @@ import java.util.Map;
 import java.util.UUID;
 
 /**
- * Class Representing MetaData stored in database.
- * Created by PKS on 4/8/17.
+ * Class Representing MetaData stored in database
  */
 @Entity
 public class MetaData {
