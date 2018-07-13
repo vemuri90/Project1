@@ -1,7 +1,7 @@
-package com.pksprojects.minis3.models.metadata;
+package com.tprojects.project1.models.metadata;
 
-import com.pksprojects.minis3.models.user.User;
-import com.pksprojects.minis3.models.view.metadata.MetaDataView;
+import com.tprojects.project1.models.user.User;
+import com.tprojects.project1.models.view.metadata.MetaDataView;
 import org.hibernate.annotations.CreationTimestamp;
 import org.hibernate.annotations.UpdateTimestamp;
 
