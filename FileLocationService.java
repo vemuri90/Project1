@@ -13,7 +13,6 @@ import java.nio.file.Paths;
 
 /**
  * Simple service to provide location/path where to store file and check if file can be stored.
- * Created by PKS on 4/9/17.
  */
 @Service
 public class FileLocationService {
