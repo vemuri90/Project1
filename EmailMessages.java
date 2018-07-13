@@ -2,7 +2,6 @@ package com.pksprojects.minis3.models.email;
 
 /**
  * Enum providing Email notification templates.
- * Created by PKS on 4/10/17.
  */
 public enum EmailMessages {
 
