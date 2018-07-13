@@ -1,7 +1,7 @@
-package com.pksprojects.minis3.scheduled;
+package com.tprojects.project1.scheduled;
 
-import com.pksprojects.minis3.services.EmailService;
-import com.pksprojects.minis3.services.FileMetaDataService;
+import com.tprojects.project1.services.EmailService;
+import com.tprojects.project1.services.FileMetaDataService;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -12,9 +12,9 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Map;
 
-import static com.pksprojects.minis3.models.email.EmailMessages.NEW_ITEMS_IN_PAST_HOUR;
-import static com.pksprojects.minis3.models.email.EmailSubjects.HOURLY_UPDATES;
-import static com.pksprojects.minis3.models.email.SystemEmailAddrs.HOURLY_NOTIFICATION;
+import static com.tprojects.project1.models.email.EmailMessages.NEW_ITEMS_IN_PAST_HOUR;
+import static com.tprojects.project1.models.email.EmailSubjects.HOURLY_UPDATES;
+import static com.tprojects.project1.models.email.SystemEmailAddrs.HOURLY_NOTIFICATION;
 
 /**
  * Component responsible for running scheduled tasks
