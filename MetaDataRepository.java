@@ -1,7 +1,7 @@
-package com.pksprojects.minis3.repositories;
+package com.tprojects.project1.repositories;
 
-import com.pksprojects.minis3.models.metadata.MetaData;
-import com.pksprojects.minis3.models.user.User;
+import com.tprojects.project1.models.metadata.MetaData;
+import com.tprojects.project1.models.user.User;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
