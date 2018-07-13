@@ -18,7 +18,6 @@ import static com.pksprojects.minis3.models.email.SystemEmailAddrs.HOURLY_NOTIFI
 
 /**
  * Component responsible for running scheduled tasks
- * Created by PKS on 4/10/17.
  */
 @Component
 public class ScheduledTasks {
