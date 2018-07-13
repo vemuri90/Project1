@@ -17,7 +17,6 @@ import java.nio.file.Paths;
 
 /**
  * Implements FileRepository interface.
- * Created by PKS on 4/9/17.
  */
 @Repository
 class FileRepositoryImpl implements FileRepository {
