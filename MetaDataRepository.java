@@ -13,9 +13,7 @@ import javax.persistence.TemporalType;
 import java.time.LocalDateTime;
 import java.util.List;
 
-/**
- * Created by PKS on 4/8/17.
- */
+
 @Repository
 public interface MetaDataRepository extends JpaRepository<MetaData, String>{
 
