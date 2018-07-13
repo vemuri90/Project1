@@ -1,4 +1,4 @@
-package com.pksprojects.minis3;
+package com.tprojects.project1;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class MiniS3ApplicationTests {
+public class project1Tests {
 
 	@Test
 	public void contextLoads() {
