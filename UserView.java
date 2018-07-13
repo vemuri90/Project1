@@ -1,13 +1,12 @@
-package com.pksprojects.minis3.models.view.user;
+package com.tprojects.project1.models.view.user;
 
-import com.pksprojects.minis3.models.user.Role;
-import com.pksprojects.minis3.models.user.User;
+import com.tprojects.project1.models.user.Role;
+import com.tprojects.project1.models.user.User;
 
 import java.util.List;
 
 /**
  * Public representation of User.
- * Created by PKS on 4/9/17.
  */
 public class UserView {
 
