@@ -1,4 +1,4 @@
-package com.pksprojects.minis3.models.email;
+package com.tprojects.project1.models.email;
 
 /**
  * Enum provides Email subjects template.
