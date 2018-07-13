@@ -1,6 +1,6 @@
-package com.pksprojects.minis3.repositories;
+package com.tprojects.project1.repositories;
 
-import com.pksprojects.minis3.models.user.User;
+import com.tprojects.project1.models.user.User;
 
 /**
  * Interface Used to do reflections on MetaData retrieval from database.
