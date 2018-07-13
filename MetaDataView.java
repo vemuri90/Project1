@@ -1,4 +1,4 @@
-package com.pksprojects.minis3.models.view.metadata;
+package com.tprojects.project1.models.view.metadata;
 
 import com.pksprojects.minis3.models.metadata.MetaData;
 
